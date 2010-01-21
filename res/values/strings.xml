@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="footer">This is a demo of the ListView. Click and hold on to one of the items above to show the context menu.</string>
+    <string name="app_name">ListViewDemo</string>
+	<string-array name="countries">
+		<item>Sweden</item>
+		<item>Norway</item>
+		<item>Finland</item>
+		<item>Denmark</item>
+		<item>Germany</item>
+		<item>Poland</item>
+		<item>Netherlands</item>
+		<item>Belgium</item>
+	</string-array>
+	<string-array name="menu">
+		<item>Edit</item>
+		<item>Delete</item>
+		<item>Send</item>
+	</string-array>
+</resources>
